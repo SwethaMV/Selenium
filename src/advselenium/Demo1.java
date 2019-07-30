@@ -6,6 +6,8 @@ public class Demo1 {
 		// TODO Auto-generated method stub
           System.out.println("adv selenium");
 	  System.out.println("adv selenium+java");
+		System.out.println("adv selenium+java+python");
+		
 	}
 
 }
